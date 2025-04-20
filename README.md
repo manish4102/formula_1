@@ -9,6 +9,18 @@ This project predicts F1 2025 race lap times by analyzing historical qualifying 
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard Preview
+![Dashboard Screenshot](loading_image.jpg)  
+*Interactive Streamlit dashboard for F1 predictions.*
+
+### Race Results
+![Results Screenshot](dashboard_image.jpg)  
+*Predicted race times and winner highlight.*
+
+---
+
 ## 🔧 **How It Works**  
 1. **Data Collection**  
    - Fetches qualifying and race lap times from the **first 5 races of the 2024 season** using the `fastf1` API.  
