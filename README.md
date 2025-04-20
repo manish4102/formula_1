@@ -62,4 +62,4 @@ This project predicts F1 2025 race lap times by analyzing historical qualifying 
 ## 📂 **Installation & Usage**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/F1-2025-Predictor.git
+   git clone https://github.com/your-username/formula_1.git
